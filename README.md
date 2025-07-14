@@ -7,7 +7,6 @@ This repository contains an SSIS (SQL Server Integration Services) project desig
 - [Project Structure](#project-structure)
 - [Key Components](#key-components) 
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 
 ### Project Structure
